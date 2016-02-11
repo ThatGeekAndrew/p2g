@@ -14,6 +14,7 @@ body {
 .navbar-brand {
   font-family: 'Russo One', sans-serif;
   font-size: 26px;
+  transition: color 0.3s;
 }
 
 .navbar-brand:hover .no2,
