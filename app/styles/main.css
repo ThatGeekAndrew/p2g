@@ -1,3 +1,6 @@
+@import url('flatly.css');
+@import url(https://fonts.googleapis.com/css?family=Russo+One);
+
 .browsehappy {
   margin: 0.2em 0;
   background: #ccc;
@@ -7,6 +10,25 @@
 
 body {
   padding: 0;
+}
+
+.navbar-brand {
+  font-family: 'Russo One', sans-serif;
+  font-size: 26px;
+}
+
+.navbar-brand:hover .no2,
+.navbar-brand:active .no2,
+.navbar-brand:focus .no2 {
+  color: white;
+} 
+
+.no2 {
+  color: #18bc9c;
+}
+
+.title {
+  font-family: 'Russo One', sans-serif;
 }
 
 .phone {

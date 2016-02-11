@@ -17,10 +17,6 @@ Phone shown is a Samsung Galaxy S5
 
 TODO:
 make kickass title
-spelling fail (acknowledgement)
 Make new route for settings without going through nickname path
-finish right hand side menu
-make links for login menu and 
-make clickable area and path for profile
 fill out about and faq
 add opaque hover to <area> tags
