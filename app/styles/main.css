@@ -14,7 +14,11 @@ body {
 .navbar-brand {
   font-family: 'Russo One', sans-serif;
   font-size: 26px;
-  transition: color 0.3s;
+  transition: color 0.1s;
+}
+
+.no2 {
+  color: #18bc9c;
 }
 
 .navbar-brand:hover .no2,
@@ -22,10 +26,6 @@ body {
 .navbar-brand:focus .no2 {
   color: white;
 } 
-
-.no2 {
-  color: #18bc9c;
-}
 
 .title {
   font-family: 'Russo One', sans-serif;
